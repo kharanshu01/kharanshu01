@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/32116829/README.md)[U<h1 align="center">Hi 👋, I'm Your Name</h1>
+[README.md](https://github.com/user-attachments/files/32116829/README.md)[U<h1 align="center">Hi 👋, I'm Kharanshu Sekhar Das</h1>
 <p align="center">A passionate Full-Stack Developer from India 🇮🇳</p>
 
 <p align="center">
@@ -18,26 +18,25 @@
 
 ```js
 const YourName = {
-  location: "Your City, State, Country 🌍",
-  education: "B.Tech CSE @ Your College (2023 - 2027)",
-  cgpa: "7.91 / 10",
-  role: "Your current role / internship",
+  location: "Bhubaneswar, Odisha, India",
+  education: "B.Tech CSE @ GITA Autonomous College Bhubaneswar Odisha (2023 - 2027)",
+  cgpa: "9.15 / 10",
+  role: "Java full stack developer"
   stack: ["React.js", "Node.js", "Express.js", "MongoDB", "TypeScript"],
   currentlyExploring: ["React Animations", "AI Chatbots", "System Design"],
   interests: ["Web Development 🌐", "Artificial Intelligence 🤖", "Cybersecurity 🔒"],
   mission: "Build real-life applications that create impact at scale 🚀",
-  funFact: "Add something fun and personal here 😄"
 };
 ```
 
 🛠️ Actively building full-stack products | 📌 Add your key highlights here
-📧 your.email@example.com | 🎯 Goal — describe your mission in one line
+📧 kharanshusekhardas01@gmail.com | 🎯 Goal — Serving the nation - VIKSHIT BHARAT 2047
 
 ## 🎓 Education
 
 | 🏛️ Institution | 🎓 Degree | 📅 Duration | 📊 CGPA |
 |---|---|---|---|
-| Your College Name | B.Tech — Computer Science & Engineering | 2023 – 2027 | 7.91 / 10 |
+| GITA Autonomous College Bhubaneswar Odisha  | B.Tech — Computer Science & Engineering | 2023 – 2027 | 9.15 / 10 |
 
 ## 🧰 Skills
 
@@ -51,7 +50,7 @@ const YourName = {
 
 ## 💼 Experience
 
-- **Role** — Company Name (Duration) — one line about what you did
+- **Role** — NALCO (1 month ) — Work on System department 
 
 ## 🚀 Projects
 
