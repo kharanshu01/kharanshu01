@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=YOUR%20NAME&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20B.Tech%20CSE%20'27&descAlignY=55&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Kharanshu%Sekhar%Das &fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20B.Tech%20CSE%20'27&descAlignY=55&descSize=20" />
 <h1 align="center"> Hi 👋, I'm Kharanshu Sekhar Das</h1>
 <p align="center">A passionate Full-Stack Developer from India 🇮🇳</p>
 <p align="center">
