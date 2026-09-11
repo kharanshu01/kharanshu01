@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=KHARANSHU%SEKHAR%DAS&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20B.Tech%20CSE%20'27&descAlignY=55&descSize=20" />  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=KHARANSHU%20SEKHAR%20DAS&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20JAVA%20%7C%20B.Tech%20CSE%20'27&descAlignY=55&descSize=20" />  
 <h1 align="center"> Hi 👋, I'm Kharanshu Sekhar Das</h1>
 <p align="center">A passionate Full-Stack Developer from India 🇮🇳</p>
 <p align="center">
@@ -51,7 +51,11 @@ const YourName = {
 | GITA Autonomous College Bhubaneswar Odisha  | B.Tech — Computer Science & Engineering | 2023 – 2027 | 9.15 / 10 |
 
 ## 🧰 Skills
+## 🛠️ Tech Arsenal
 
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,react,html,css3,bootstrap,tailwind,nodejs,express,mongodb,mysql,firebase,git,github,figma,vercel,androidstudio,blender,linux,vscode" />
+</p> 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
