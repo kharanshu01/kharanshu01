@@ -1,5 +1,17 @@
-<h1 align="center">Hi 👋, I'm Kharanshu Sekhar Das</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=YOUR%20NAME&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20B.Tech%20CSE%20'27&descAlignY=55&descSize=20" />
+<h1 align="center"> Hi 👋, I'm Kharanshu Sekhar Das</h1>
 <p align="center">A passionate Full-Stack Developer from India 🇮🇳</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Real-World+Full+Stack+Applications;MERN+Stack+%7C+REST+APIs+%7C+System+Design" />
+</p> 
+<p align="center">
+  <a href="https://https://portfolio-phi-ten-ihrp9332e8.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:kharanshusekhardas01@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/Kharanshu Sekhar Das"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/das_kharanshu"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://instagram.com/kharanshu__"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://facebook.com/prince kharanshu"><img src="https://img.shields.io/badge/FACEBOOK-000000?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kharanshu01&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
