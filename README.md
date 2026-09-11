@@ -56,39 +56,39 @@ const YourName = {
 
 | Project | Tech Stack | Description |
 |---|---|---|
-| **Project Name** | MERN, JWT | Short description of what it does |
-| **Project Name 2** | Node.js, Express, MongoDB | Short description |
+| **AI Phishing Detection System** | Python, Machine Learning, Flask, HTML/CSS, JavaScript  | Developed an AI-based phishing detection system that analyzes website/URL characteristics and classifies potentially |
+| **E-Commerce Website** | Java, Spring Boot, MongoDB , Rest API, HTML/CSS | Developed a full stack e-commerce platform supporting product browsing, user authentication, shopping cart, and order management |
 
 ## 🏆 Awards & Achievements
 
-- 🥇 Describe an award or notable achievement
-- 🤝 Describe a contribution to a project/event
+- 🥇 Best Volunteer Award (Boys) - Annual Sports Event 2025, GITA Autonomous College, Bhubaneswar, Odisha
+- 🥇 Cricket Participant - IIT Kharagpur, 2024
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11&height=3&section=header" width="100%">
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kharanshu01&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kharanshu01&layout=compact&theme=radical" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=kharanshu01&theme=radical" />
 </p>
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/kharanshu01/kharanshu01/output/github-contribution-grid-snake.svg" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11&height=3&section=header" width="100%">
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/Kharanshu-Sekhar-Das"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/das_kharanshu"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:kharanshusekhardas01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 ploading README.md…]()
 
