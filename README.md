@@ -1,10 +1,10 @@
-[README.md](https://github.com/user-attachments/files/32116829/README.md)[U<h1 align="center">Hi 👋, I'm Kharanshu Sekhar Das</h1>
+<h1 align="center">Hi 👋, I'm Kharanshu Sekhar Das</h1>
 <p align="center">A passionate Full-Stack Developer from India 🇮🇳</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=for-the-badge&color=black" />
-  <img src="https://img.shields.io/badge/CGPA-7.91%2F10-brightgreen?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=kharanshu01&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/kharanshu01?label=FOLLOWERS&style=for-the-badge&color=black" />
+  <img src="https://img.shields.io/badge/CGPA-9.15%2F10-brightgreen?style=for-the-badge" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11&height=3&section=header" width="100%">
